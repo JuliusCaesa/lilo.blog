@@ -4,6 +4,7 @@ date = "2024-02-26"
 draft = false
 pinned = false
 description = "Eine Reportage über das Papiliorama und seine Geschichte. Eine Reise durch die Vergangenheit bis zur Gegenwart."
+footnotes = "Bildquellen:\n\n(https://murten.unsereregion.ch/assets/images/b/Papiliorama_Kerzers11-8836711a.jpg)(https://www.willkommeninbiel.ch/deine-bieler-kollegen/lorenz-schl%C3%A4fli-1475)(https://www.beatenbergbilder.ch/bildergruss/2010/07_ausfluege/img_1296_k_700.jpg Stand: 13.5.2010)"
 +++
 {{<lead>}}
 1988 aus Leidenschaft geboren, 1995 vom Inferno verschluckt und mit vereinter Kraft wieder aus dem Boden gestampft: Ein Rundgang durch die unglaubliche Geschichte des Papiliorama.
