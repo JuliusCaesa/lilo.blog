@@ -9,17 +9,11 @@ description = "Ein Interview mit Lorenz Schläfli, dem Manager des Papilioramas.
 Ein Interview mit Lorenz Schläfli, dem Manager des Papilioramas.
 {{</lead>}}
 
-
-
 Ravel Herrli, Laurin Rothen
 
-\------------>--->-->-> Bild
-
-
+![](lorenz-schlafli.jpg)
 
 Ein kühler, grauer Freitagnachmittag, die Wintersonne ist schon beinahe hinterm Horizont verschwunden und das ältere Modell eines BLS Zuges setzt seine Fahrt fort. Hier, auf dem ehemaligen Farmland, erstreckt sich eine Anlage, jene mehr an eine Sternwarte erinnert, als an einen Zoo. Das Papiliorama mit seinen drei mächtigen Kuppeln erstreckt sich hier, wie es einst in Marain gestanden hatte, vor dem Unglück, das diese ehemalige AG beinahe in den Ruin trieb. Auf dem Weg zur Eingangshalle ist Sicht auf einen Turm in Konstruktion gegeben, hier wird nicht oft stillgestanden. Vor der Eingangshalle sieht man an der Seite eines Silos Aufdrucke  der zahlreichen Naturschutzprojekten der Stiftung, über 40’000 Quadratmeter in Belize. Die Eingangshalle ist relativ leer und schon ohne Eintritt sieht man das Gehege von Primaten und tropischen Vögeln. Nach etwa 4 Minuten erscheint Herr Schläfli, der Projektmanager der Institution und unser Informant. Durch eine Werkschafts-Tür steigen wir in die unterirdischen Gänge herab, welche die oberirdischen Strukturen regulieren. Durch eine weitere Tür betreten wir ein weisses Büro, zur  linken Seite befinden sich zwei Sofas mit einem, aus einer glasigen Tischplatte Bestehendes, Tischchen und eine Glasfront welche weitere Räume unterteilt. An der nördlichen Seite des Raumes befinden sich Bürotische, die in einer U-Formation die Hälfte des Büros umklammern. Papierberge, PC- Blöcke, Stiftehalter, volle Dokument Körbe, ein Stapel Tierbecher auf dem linken Pult und geschnitzte Zwerge auf der Fensterbank in der Mitte der Tischformation  geben einen ersten Eindruck. Vom Sofa aus zu meiner Linken befindet sich eine gerahmte karte der Ostküste Zentralamerikas, Belize hervorgehoben, mit klar gekennzeichneten Plots der Stiftung  und einem motivierenden Schild das prangt: “Fehler sind für Anfänger, Profis verursachen Katastrophen”. Herr Schläfli positioniert sich gegenüber von uns mit verschränkten Beinen auf dem zweiten Sofa und nimmt einen Schluck seines Kaffees, unserer nächsten Frage erwartend. Er trägt eine einfache Jens und ein T-Shirt, sowie eine simple Brille.
-
-
 
 **Ihr  habt mittlerweile als Manager eine sehr wichtige Stelle am Papiliorama, wie seid ihr denn überhaupt dazu gekommen hier zu arbeiten?**
 
@@ -34,8 +28,6 @@ Ich bin in der Geschäftsleitung, wir sind zu dritt, das heißt wir bestimmen op
 > «Unser Stiftungszweck ist es Jugendlichen, die Schönheit der Natur näher zu bringen…»
 >
 >  (Lorenz Schläfli)
-
-
 
 **Die Gründung des Papilioramas war 1998, dort wart ihr ja noch nicht dabei, wisst ihr, wie so etwas überhaupt machbar war, sowas wie dieser Zoo, also die Stiftung zu gründen?**
 
@@ -52,8 +44,6 @@ Nein, wir machen eine ZEF zusammen, wir produzieren den Strom zusammen. Wir habe
 Wir versuchen so Autonom wie möglich zu werden das ist klar, es ist immer eine Frage der Investition das ist alles relativ teuer und bei Solarzellen hat man das Problem der Speicherung, das heisst im Winter werden wir immer externem Strom beziehen müssen, weil man selbst zu wenig Produzieren kann. Im Moment müssen wir leider mit Gas heizen, aber bald sind wir an einen Wärmeverbund angehängt. 
 
 \------------>--->-->-> Infoblock
-
-
 
 **Wenn es einen Ausfall geben würde bei den Anlagen, wie schlimm wären die Auswirkungen?**
 
@@ -90,8 +80,6 @@ Es ist jedoch eine Schwesterstiftung, die nicht direkt abhängig ist. Es sind au
 Das stellen wir auch hier dar, weil der Grundgedanke ist ja die Natur zu schützen und deshalb stellen wir das auch hier dar, was wir in Belize machen. Auch mit dem Gedanken Geld zu sammeln, haben wir Spenden von hier, da alles Geld kostet. Es kommt auch nichts zurück, aber der Grundgedanke, wir müssen selbst etwas machen, was wir den Leuten sagen wollen, sie sollen es machen. 
 
 \------------>--->-->-> Bild
-
-
 
 **Könnt ihr das Papiliorama selbst finanzieren oder braucht es Sponsoren?**
 
