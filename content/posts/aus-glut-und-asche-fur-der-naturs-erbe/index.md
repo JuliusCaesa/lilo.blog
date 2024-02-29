@@ -39,7 +39,7 @@ In dieser Halle sieht man die Faszination des Gründers mit den Tropen und verst
 
 {{<box>}}
 
-Shipstern-Naturreservat
+**Shipstern-Naturreservat**
 
 Das Gebiet des Shipstern-Naturreservat wurde 1989, im Nordosten von Belize, von ITCF erworben. Das Reservat erstreckt sich  über eine Fläche von 110 km2 und ist geprägt von seinen Zahlreichen Lebensräumen, die sich von Lagunen, Mangroven, über trockene Küstenwälder bis hin zu für den Yucatan-Halbinsel typischen Subtropischen Wäldern reichen. 
 
