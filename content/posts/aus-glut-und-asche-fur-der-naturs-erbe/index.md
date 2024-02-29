@@ -23,7 +23,7 @@ Und das zweite…. Das ist eine längere Geschichte.
 
 Die erste Ausstellung hier ist die berüchtigten Schmetterlingsvoliere, berüchtigt, da die erste Ausstellung in Marin genau das gleiche war, und hier beginnt auch die kleine Führung mit Projektmanager und Wo ist Walter Enthusiast:  Lorenz Schläfli...
 
-\------------>--->-->-> Bild
+![Lorenz Schläfli, der Projektmanager der Papiliorama Stiftung als Walter. ](lorenz-schlaefli.jpg)
 
 Doch zuerst etwas Hintergrundinformation: 
 
@@ -55,7 +55,7 @@ In diesem Abschnitt war einmal auch ein Ozelot zu sehen, jedoch wurde dieses an 
 
 Die hinterste Halle der gesamten Anlage ist der Jungle Track. Hier befindet man sich in einer detailgetreuen Rekreation der Flora und Fauna der Naturschutzgebiete in Belize. Jede Pflanze und jedes Tier in dieser Halle ist entweder aus Botanischen Institutionen, Zoos oder direkt aus Belize eingeführt, Natur schonend natürlich. Um auch die Baumkronen bestaunen zu können, ist ein Laufsteg über zwei Wendeltreppen zu erreichen und um die Natur hautnah zu erleben, laufen die meisten Tiere frei umher. In dieser Halle befindet sich auch  ein Plethora mit Informationen über die Tochter Stiftung des Papillio Ramas und ihre insgesamt beinahe 400m. Unter dieser grösse können die Tiere ihrem natürlichen Lebensraum sehr nahe kommen mit dem Unterschied, dass sie vor jeglichen Gefahren geschützt und bei einer Erkrankung fachgerecht behandelt werden.
 
-\------------>--->-->-> Bild
+![Eines Der letzten Tukan Pärchen Europas in Der Jungle Treck Kuppel im Papiliorama in Kerzers.](img_1296_k_700.jpg)
 
 ### Durch Feuer und Flamme 
 
