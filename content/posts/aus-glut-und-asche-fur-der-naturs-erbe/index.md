@@ -37,7 +37,14 @@ Doch zuerst etwas Hintergrundinformation: 
 
 In dieser Halle sieht man die Faszination des Gründers mit den Tropen und versteht, warum das Papiliorama zahlreiche Projekte in Mittelamerika eröffnet hat. Das Papiliorama öffnete seine Tore im selben Jahr wie der Royal Burger’s Zoo in den Niederlanden und zusammen entschieden die beiden Zoos je eine gleichnamige Schwester Stiftung zu eröffnen, die sich mit dem Bewahren der Natur in Mittelamerika befasst. So entstanden die beiden ITCF Stiftungen, von welchen die vom Papiliorama gegründete 1989  im Nordosten von Belize in Zentralamerika ein riesiges Grundstück erwarb und das Shipstern-Naturreservat gründete. Dies ist auch heute noch das Hauptprojekt der ITCF. Die sogenannte ITCF wurde 1989, ein Jahr nach der eigentlichen Stiftung, gegründet. Das Reservat umfasst ca. 110 km2 und zeichnet sich durch seine vielfältigen Lebensräume aus, die von Lagunen und Mangroven über trockene Küstenwälder bis hin zu den für die Yucatan-Halbinsel typischen subtropischen Wäldern reichen. 
 
-\------------>--->-->-> Infoblock
+{{<box>}}
+
+Shipstern-Naturreservat
+
+Das Gebiet des Shipstern-Naturreservat wurde 1989, im Nordosten von Belize, von ITCF erworben. Das Reservat erstreckt sich  über eine Fläche von 110 km2 und ist geprägt von seinen Zahlreichen Lebensräumen, die sich von Lagunen, Mangroven, über trockene Küstenwälder bis hin zu für den Yucatan-Halbinsel typischen Subtropischen Wäldern reichen. 
+
+Das Shipstern-Reservat wird von der CSFI verwaltet, einer von der ITCF gegründeten NGO. Hierbei steht NGO für Non-Governmental Organisation. Finanziert wird CSFI überwiegend von ITCF.
+{{</box>}}
 
 ### Naturschutz nach Plan.
 
