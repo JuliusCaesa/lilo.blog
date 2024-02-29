@@ -43,7 +43,12 @@ Nein, wir machen eine ZEF zusammen, wir produzieren den Strom zusammen. Wir habe
 
 Wir versuchen so Autonom wie möglich zu werden das ist klar, es ist immer eine Frage der Investition das ist alles relativ teuer und bei Solarzellen hat man das Problem der Speicherung, das heisst im Winter werden wir immer externem Strom beziehen müssen, weil man selbst zu wenig Produzieren kann. Im Moment müssen wir leider mit Gas heizen, aber bald sind wir an einen Wärmeverbund angehängt. 
 
-\------------>--->-->-> Infoblock
+{{<box>}}
+
+**ZEF**
+
+ZEF steht für “Zusammenschluss zum EnergieVerbrauch". So ist es möglich, dass man zusammen eine Stromquelle aufbauen kann, die für beide zählt. Dies ermöglicht zum Beispiel, bei Mehrfamilienhäusern oder Eigentumswohnungen Solarzellen zu installieren.
+{{</box>}}
 
 **Wenn es einen Ausfall geben würde bei den Anlagen, wie schlimm wären die Auswirkungen?**
 
@@ -79,7 +84,12 @@ Es ist jedoch eine Schwesterstiftung, die nicht direkt abhängig ist. Es sind au
 
 Das stellen wir auch hier dar, weil der Grundgedanke ist ja die Natur zu schützen und deshalb stellen wir das auch hier dar, was wir in Belize machen. Auch mit dem Gedanken Geld zu sammeln, haben wir Spenden von hier, da alles Geld kostet. Es kommt auch nichts zurück, aber der Grundgedanke, wir müssen selbst etwas machen, was wir den Leuten sagen wollen, sie sollen es machen. 
 
-\------------>--->-->-> Bild
+{{<box>}}
+
+**ITCF**
+
+International Tropical Conservation Fund ist eine Schwesterstiftung, die konkret 23’500 Hektaren in Belize in Mittelamerika schützt. Die Stiftung war ein wichtiger Teil bei der Gründung des Papilioramas.
+{{</box>}}
 
 **Könnt ihr das Papiliorama selbst finanzieren oder braucht es Sponsoren?**
 
@@ -93,4 +103,9 @@ Das ist ein ganzer Organisationsaufbau gewesen. Wir hatten zuerst einen externen
 
 Da kommt es sehr drauf an was. Wir brauchen eine normale Baubewilligung. Wir befinden uns hier in einer Sonderzone, die wurde dazumal ausgeschrieben, temporär, mit dem Baurecht 66 Jahre lang. Was macht, dass man überhaupt so etwas bauen kann hier. Aber was man noch zusätzlich baut, da muss man einfach eine normale Baubewilligung einholen. Entweder kommt es durch oder nicht. Jetzt bei zwei Bewilligungen die wir einholen sind, ist gerade ein Bewilligungsstopp, weil wir gerade Neu, nächstes Jahr ein neues Hochwasserrisiko Konzept machen, warum auch immer. Im Grunde brauchen wir einfach eine normale Baubewilligung. 
 
-\------------>--->-->-> Infoblock
+{{<box>}}
+
+**Das Projekt 2030+**
+
+Dies sind mehrere langfristige Projekte, die in den nächsten Jahren geplant sind. Dies reicht von der Modernisierung der Infrastruktur, über eine Umzäunung des gesamten Zoos, bis hin zu völlig neuen Ausstellungen.
+{{</box>}}
