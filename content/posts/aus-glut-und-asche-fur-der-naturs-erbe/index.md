@@ -17,7 +17,7 @@ Das Erste ging in Rauch auf.
 
 Und das zweite…. Das ist eine längere Geschichte.
 
-![Die Anlage des Papillioramas in Kerzers Neben der hintersten Tropenhalle entsteht bald ein Spielplatz.](papiliorama_kerzers11-8836711a.jpg)
+![Die Anlage des Papillioramas in Kerzers. Neben der hintersten Tropenhalle entsteht bald ein Spielplatz.](papiliorama_kerzers11-8836711a.jpg)
 
 ### Jeder fängt mal klein an.
 
